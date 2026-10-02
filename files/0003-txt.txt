@@ -1,0 +1,125 @@
+Air Quality Education Pack
+
+Who is this pack for?
+This education pack has been created for teachers, with lesson ideas and resources for primary pupils through to sixth form students. The pack has been created to be flexible, allowing teachers to copy and paste ideas and activities into your own lesson plans. Alternatively, use each lesson or activity idea independently. 
+This education pack will help pupils to understand the key issues around air pollution, where it comes from and show how they can use their influence to help effect change for cleaner, safer air. 
+
+What is air quality?
+The term “air quality” essentially means the state of the air around us. Good air quality refers to clean, clear, unpolluted air. Clean air is required to maintain the delicate balance of life on earth— not just for humans, but wildlife, vegetation, water and soil. Poor air quality is generally considered to be present when pollutants reach high enough concentrations to endanger human health and/or the environment.
+The UK government use a  (DAQI) which provides users with information about levels of air quality and provides recommended actions and health advice. The index is numbered 1-10 and divided into four bands, low (1) to very high (10), to provide detail about air pollution levels in a simple way, similar to the sun index or pollen index. 
+
+What is air pollution?
+Short definition: Air pollution is any substance in the air that could harm people (, 2017)
+Longer definition: Air pollution is considered to have occurred when there is introduction of a substance into the air that has harmful effects to humans, animals or that could damage plants and materials. The substances that cause air pollution are called pollutants. Air pollutants mainly occur as the result of gaseous, fume or particulate discharges from anthropogenic (human) activities. Sources vary but can include industry, transport or power generation. There are also natural sources such as wind-blown dust, volcanic eruptions or smoke from forest fires. 
+There are many types of pollution, however the biggest offending pollutants are: nitrogen dioxide (NO2), sulphur dioxide (SO2), ozone (O3), particulates (PM10 and PM2.5) and carbon monoxide (CO). Leicester City Council is mostly concerned by the concentration of nitrogen dioxide and particulates.
+
+
+What kind of pollutants are in the air?
+When you breathe, you also inhale the substances polluting the air. Air pollution can therefore lead to health problems. Air pollution is a complex mixture of many substances. In legislation and research specific substances are often looked at.
+
+Nitrogen dioxide (NO2)
+Nitrogen dioxide is the gas released in combustion. In the outside air, traffic is the major source of nitrogen dioxide. Nitrogen dioxide is a substance that can easily be measured. If the nitrogen dioxide concentration is high then, often, the concentration of other traffic emissions is also high. Nitrogen dioxide is therefore often used as a gauge for air pollution caused by traffic. It is a ‘traffic indicator’.
+Particulates 
+Particulate matter is the collective name for all particles invisible to the naked eye that are suspended in the air, such as soot particles. These particles vary in their origin, size and composition. Particulate matter constitutes the element of air pollution that causes the most health problems. The smaller the particles, the deeper they penetrate the lungs and the more damage they can cause.
+Particulate matter can be defined as:
+PM10: ‘large’ particulates. These are particles with a diameter of less than 10 micrometres* (µm). A human hair is 5 times as thick.
+PM2.5: ‘fine’ particles, with a diameter of less than 2.5 µm. This category consists primarily of particles created by combustion processes, such as soot particles from diesel engines.
+Other pollutants:
+Ozone (O3)
+Ozone is a gas. It is formed from nitrogen oxides and hydrocarbons, under the influence of sunlight. The ozone concentration is highly influenced by the weather. You find particularly high concentrations of ozone in the summer, on sunny, calm days with an east wind, especially in the afternoon and early evening. The amount of ozone increases during the day and is at its highest between 12:00 pm and 08:00 pm. At night, the ozone at ground level is largely broken down.
+Carbon Monoxide (CO)
+Carbon monoxide is produced by the incomplete burning (i.e. there is not enough oxygen for each carbon atom to combine with two oxygen atoms) of carbon-based fuels, including petrol, diesel, gas, oil, wood and coal. Carbon monoxide is mostly produced by road transport from petrol vehicles.
+Sulphur dioxide (SO2)
+Sulphur dioxide is an odorous, yet colourless gas that comes from power stations and volcanoes. It combines with water in the air to produce acid rain. SO2 is produced when Sulphur-containing fuels, such as coal, are burned. Sulphur dioxide has an irritant effect on the lining of the nose, throat and airways, and the effects are often felt very quickly. 
+Ammonia (NH3)
+Ammonia is a gas released into the atmosphere from natural and man-made sources. Once emitted into the atmosphere, the subsequent deposition of NH3 can be a major source of pollution, causing nitrogen (N) enrichment (eutrophication) and acidification of soil and water sources.
+Volatile Organic Compounds (VOCs)
+Indoors, VOCs emitted from consumer products are not thought be to a significant public health issue when homes are well ventilated and when the products are used according to the manufacturers’ instructions. But some sensitive people may suffer irritation of the eyes, nose and throat, headaches and dizziness if they are exposed. 
+Where does air pollution come from?
+Air pollution comes from a variety of sources. These sources can be natural or from man-made activity. Please see Figure 1 for an infographic displaying some of the sources of air pollution and their effects.
+
+Figure 1 Sources of air pollution, Public Health England, Health Matters: air pollution, November 2018
+
+
+
+
+
+
+
+
+Man-made sources of air pollution:
+A table showing man-made sources of air pollution and the pollutants produced
+
+Natural sources of air pollution:
+A table showing natural sources of air pollution and the pollutants produced.
+What is the impact of poor air quality on human health?
+Air pollution is one of the major environmental determinants of health, and there is good evidence it has significant impact on, amongst other things, the incidence and severity of cardiovascular disease and lung health. It has both short and long-term health effects and has a particular impact on children as they grow.
+When air pollutants enter the body, they can have effects on various different organs and systems, not just the respiratory system.
+This includes:
+the eyes, nose and throat – causing eyes to feel itchy, the nose to run and throat to feel sore or irritated. 
+the lungs and respiratory system – causing inflamation, increasing the symptoms of and worsening of existing lung diseases.
+the heart – causing worsening of existing heart diseases and contributing to the cause of blood vessel diseases, including strokes and hardening of the arteries, are one of the main effects of air pollution.
+The most vulnerable to the effects of poor air quality are the very young, elderly and those with existing respiratory or heart conditions.
+Emerging evidence suggests that air pollution may also affect the brain and is possibly linked to dementia and cognitive decline. There is also emerging evidence associating air pollution with early life effects such as low birth weight.
+ 
+FIGURE 2 HEALTH EFFECTS OF AIR POLLUTION GRAPHIC, GUIDANCE HEALTH MATTERS: AIR POLLUTION, 
+PUBLIC HEALTH ENGLAND, PUBLISHED NOV 2018
+
+History of air quality
+Prior to urbanisation and industrial emissions, nature's own systems kept the air quality reasonably consistent. Wind allowed gases to be dispersed, rain washed dust and other easily dissolved substances from the air to the ground and plants absorbed carbon dioxide and replaced it with oxygen through photosynthesis.
+Through increasing urbanisation and industrialisation, humans started to release more pollution into the atmosphere than the Earth’s environmental processes could cope with. The adverse effects of poor air quality were highlighted in London in 1952 when, in just a few days, an estimated 4000 plus people died from effects of air pollution during the smog. This subsequently led to legislation to start to control air pollution. It is the air pollution that led to London getting the nickname of “The Smoke”.
+Further information: Defra, 
+Air quality and Leicester: What is Leicester doing?
+Leicester City Council monitors air quality at several locations across Leicester through a network of five air quality stations.
+
+How we manage air quality
+All local authorities are required to undertake a review and assessment of local air quality to identify whether the air quality objectives for certain key pollutants are being met. Where objectives are not being met, the local authority is required to develop an action plan to achieve progress towards meeting the targets.
+The pollutant objectives are set at levels low enough to make adverse health effects unlikely even for vulnerable groups such as children, elderly and those already affected by respiratory conditions such as asthma.
+
+Monitoring in Leicester - Air Quality Management Area
+The Environment Act 1995 requires all local authorities to regularly review and assess local air quality. Where exceeding air quality targets is considered likely, the local authority must then declare an AQMA and prepare an Air Quality Action Plan (AQAP) setting out the measures it intends to put in place to improve air quality.
+
+Air quality action plan
+On 26 November 2015, full council approved the 2015-2026 . 
+Find out more about how Leicester City Council is managing .
+
+
+
+
+
+
+
+
+How can we improve air quality in and around our schools?
+With so many sources of air pollution in and around our schools, including things like busy roads, factories, construction sites and even farming, it can feel overwhelming and seemingly impossible to make a difference.
+However, there are lots of things you can do. And, if you get enough pupils, teachers, parents and school staff making the same small change – we can achieve big things.
+Some of the most up to date guidance for schools has been produced by the British Lunch foundation, in partnership with the National Education Union (NEU). The document, available to download from the link below, is available in PDF format and covers useful information on how air pollution affects children, what air pollution is and what school leaders and staff do to protect pupils. 
+Download the .
+Tips for schools:
+Understand air pollution – find out more about air pollution and its sources using this document and the links provided. Understanding the issue is the first step to making a positive difference to the air quality in and around your school
+Raise awareness – find as many ways as possible to raise awareness among the pupils, teachers, leaders, staff and parents at your school. It’s key that everyone knows that they are responsible for making a difference. You can raise awareness through school assemblies, research projects, engaging with our Education Officer (Air Quality) who can provide lessons, workshops and practical activities to engage the whole school community with air quality
+Promote active travel to school – encourage as many parents, pupils, staff and leaders as possible to travel to school differently, even once a week can make a difference. This can include: walking, cycling and scooting.
+Promote “anti-idling” (switching car engines off – not leaving them running when the car is not in motion) outside of school gates and encourage parking at least a five-minute walk away from the school. 
+Promote quieter routes to school for those that walk – encourage those who walk to school to use quieter, less busy and congested routes to school. It may take a little longer, but the air will be cleaner.
+Monitor and reduce energy usage around school. Senior leaders could tackle this by monitoring usage and setting targets. Reminding teachers and pupils to switch off computers, white boards and lights when not in use – is also helpful.
+These tips are meant as recommendations and ideas. Remember, even the smallest of changes can help to improve air quality in and around school.
+For more information on monitoring and reducing energy in school, please email  Jowett, Environmental Education Coordinator   
+For more information on working on air quality education), please email Danni Kennell, Education Officer (Air Quality)  
+
+
+  Healthier Air for Leicester Schools Award 
+
+Schools can participate in the Healthier Air for Leicester Schools Award. The criteria are linked to school projects and awards you may already be participating in across Eco-Schools, Living Streets, School run parking and the Sustrans schools cycling project. These activities offer a unique opportunity to explore air pollution and change the behaviour of the whole school community and beyond.
+To find out more about this award and the submission process please visit  
+
+
+The Sustainable Development Goals (or SDG's) are a collection of 17 global goals set by the United Nations General Assembly in 2015 for the year 2030. The SDGs are part of Resolution 70/1 of the United Nations General Assembly, the 2030 Agenda. This project covers:
+3 - Good health and wellbeing
+4 - Quality education
+13 - Climate action
+17 - Partnerships for goals
+
+
+Useful websites and sources of information
+
+ 
