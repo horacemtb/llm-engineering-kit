@@ -1,0 +1,7 @@
+config,faithfulness,answer_relevancy,context_precision,context_recall,retrieval_sec,generation_sec,total_sec
+large_E5,0.933,0.737,0.861,0.952,0.039,0.865,0.903
+large_MiniLM,0.75,0.743,0.833,0.776,0.025,0.888,0.913
+medium_E5,1.0,0.749,0.861,0.972,0.044,2.088,2.132
+medium_MiniLM,0.844,0.752,0.764,1.0,0.022,0.835,0.857
+small_E5,0.958,0.907,0.653,0.911,0.049,0.821,0.869
+small_MiniLM,0.85,0.773,0.792,1.0,0.025,0.922,0.947

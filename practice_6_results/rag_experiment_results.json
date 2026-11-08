@@ -1,0 +1,1010 @@
+[
+  {
+    "config":"small_MiniLM",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh A",
+      "3.3 Overall, there is currently satisfactory management of risk but a number of weaknesses were identified. An acceptable control environment \nis in operation but there are a number of improvements that should be made. Our opinion of the controls within the system at the time of \nthe audit was that they provided Reasonable Assurance. \n3.4   Further information security checks will be undertaken in",
+      "al \nDate Issued: 1 June 2017 \nReference: 10260\/022 \n \nOverall Audit Opinion Reasonable Assurance \nActions \nP1 P2 P3 \n0\n \n  \n3 0"
+    ],
+    "response":"The overall audit opinion was \"Reasonable Assurance.\"",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.029408772,
+    "generation_time_sec":1.688827056,
+    "total_time_sec":1.718235828,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        3
+      ],
+      [
+        "0007-pdf.pdf",
+        0
+      ]
+    ]
+  },
+  {
+    "config":"small_MiniLM",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "ining personal and sensitive information were left unlocked and some sensitive informat ion was \nleft on desks or on open storage (i.e. shelving).   \n \n- Across both sites, a significant number of  council assets were left unsecured, including laptops, cameras and keys to properties and \nvehicles. \n \nWhilst the Hazel Court site and building security p rovides protection against external breaches o",
+      "ity of informa tion is stored in \ncupboards, cupboard doors  are closed  and in these checks, the majority of cupboards were loc ked. The clear desk policy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to",
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nlef"
+    ],
+    "response":"At West Offices, the security weaknesses included unsecured cupboards with sensitive, personal, or confidential information, as well as a few documents left out on desks or in other unsecured locations. At Hazel Court, similar issues were observed, such as unlocked cupboards containing personal and sensitive information.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.020534783,
+    "generation_time_sec":0.738771531,
+    "total_time_sec":0.759306314,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"small_MiniLM",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "2\nAbstract\nThis paper provides an overview of the meaning of ‘chronic poverty’, and identifies\nframeworks for analysing it. In the first section, the major frameworks for\nconceptualising, defining, explaining, and measuring poverty in its broader sense are\nreviewed in brief, and related to the study of chronic poverty. It is suggested that\nresearch undertaken by the Chronic Poverty Research Centre",
+      "6\nThis paper provides an overview of the meaning of ‘chronic poverty’ and frameworks\nfor analysing it (Figure 1). In the first section, the major frameworks for conceptualising\n(defining and explaining) and measuring poverty in its broader sense are reviewed in\nbrief, and related to the study of chronic poverty. Frameworks for understanding and\nmeasuring chronic poverty, with a focus on its charac",
+      "nd relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional"
+    ],
+    "response":"The defining characteristic of chronic poverty is long duration.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.019730237,
+    "generation_time_sec":0.416472123,
+    "total_time_sec":0.43620236,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        5
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"small_MiniLM",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      "understanding of casual factors and\nprocesses.\n3. A five-tiered categorisation of poverty is proposed ( Figure 3). This identifies the\nalways poor, usually poor, churning poor, occasionally poor and never poor. The\nfirst two categories are chronically poor, the next two transitorily poor and the last\none is non-poor. Charting the factors that are associated with transitions in the\npoverty status o",
+      "se the conditions of specific groups of poor people. There are a",
+      "3\nTable of contents\nTitle page and acknowledgements 1\nAbstract 2\nTable of contents 3\nList of figures and list of tables 4\nAbbreviations 4\n1 Background 5\n2 Frameworks for understanding and measuring poverty 6\n2.1 Material poverty, money-metric measurement approaches and multi-\ndimensional concepts of poverty\n6\n2.2 Absolute and relative poverty 8\n2.3 Subjective poverty assessments 8\n2.4 Capabilities"
+    ],
+    "response":"The five categories of poverty proposed in the paper are: always poor, usually poor, churning poor, occasionally poor, and never poor.",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.020434437,
+    "generation_time_sec":0.760722983,
+    "total_time_sec":0.78115742,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        33
+      ],
+      [
+        "0008-pdf.pdf",
+        22
+      ],
+      [
+        "0008-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"small_MiniLM",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 13  Creating a presentation \nCONCLUDING REMARKS \n \n \n \n \nCongratulations!  \nYou have now completed the Creating a presentation booklet.  This booklet was \ndesigned to get you to the point where you can competently perform a variety of \noperations as outlined in the task list on page 2.  \nWe have tried to build up your ski",
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1",
+      "tarting this exercise \nensure PowerPoint is open... \n1 Click on the File tab, then click on New to display Available \nTemplates and Themes \n2 Click on Sample Templates to display the range of installed \ntemplates \n3 Click on Training, then click on [Create] to open a new \npresentation based on this \ntemplate \n4 Click on the File tab, then click on Close to close the \npresentation \nNow we’ll look a"
+    ],
+    "response":"The context does not provide specific details about the tasks covered in the PowerPoint 2010 training guide.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.020664288,
+    "generation_time_sec":0.567695259,
+    "total_time_sec":0.588359547,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        12
+      ],
+      [
+        "0009-pdf.pdf",
+        0
+      ],
+      [
+        "0009-pdf.pdf",
+        6
+      ]
+    ]
+  },
+  {
+    "config":"small_MiniLM",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "on by the audience, keep text to a minimum. It is \nimportant to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea or key topic.  \n Limit each slide to between three and five bullet points to support the main \nidea. \n Try and keep each bullet point to a single line of text. \n \nReadability \nFont choice and size",
+      "as that you want to get across? \nOnce you have a design and the content sorted out, you can \nuse PowerPoint to put these two together quickly and easily to \ncreate a presentation with a professional and consistent \nappearance. \nIn this booklet we will show you how to: \n gain an understanding of some factors that affect \nthe design of a presentation \n gain an understanding of presentation methods",
+      "-45 points, while the main \nbody of text and bullet points is around 22 points. \n Make good use of white space on each slide. The more white space that \nappears on a slide, the easier it will be for the audience to read what does \nappear. Try to keep a minimum of 20 per cent of white space on all slides. \n Keep the number of colours you use to a minimum. Generally two to three \ncolours per slide"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include:\n1. Using a slide to introduce one main idea or key topic.\n2. Limiting each slide to between three and five bullet points supporting the main idea.\n3. Keeping each bullet point to a single line of text.\n4. Choosing appropriate font sizes: 45 points for titles and 22 points for body text and bullet points.\n5. Utilizing white space effectively; maintaining a minimum of 20% white space on all slides.\n6. Using a limited number of colors, typically two to three per slide.",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.037864016,
+    "generation_time_sec":1.360419433,
+    "total_time_sec":1.398283449,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        1
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh A",
+      "al \nDate Issued: 1 June 2017 \nReference: 10260\/022 \n \nOverall Audit Opinion Reasonable Assurance \nActions \nP1 P2 P3 \n0\n \n  \n3 0",
+      "3.3 Overall, there is currently satisfactory management of risk but a number of weaknesses were identified. An acceptable control environment \nis in operation but there are a number of improvements that should be made. Our opinion of the controls within the system at the time of \nthe audit was that they provided Reasonable Assurance. \n3.4   Further information security checks will be undertaken in"
+    ],
+    "response":"The overall audit opinion was \"Reasonable Assurance.\"",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.05485205,
+    "generation_time_sec":0.437354836,
+    "total_time_sec":0.492206886,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        0
+      ],
+      [
+        "0007-pdf.pdf",
+        3
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "ity of informa tion is stored in \ncupboards, cupboard doors  are closed  and in these checks, the majority of cupboards were loc ked. The clear desk policy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to",
+      "d of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West O",
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nlef"
+    ],
+    "response":"At West Offices, some cupboards containing sensitive, personal, or confidential information were unsecured, and there were a few documents not stored securely. At Hazel Court, some cupboards with personal and sensitive information were left unlocked, and some sensitive information was also left exposed.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.066778411,
+    "generation_time_sec":0.866444181,
+    "total_time_sec":0.933222592,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "eading to spells of poverty, as well the manner in\nwhich vulnerability interacts with risk aversion to hinder escape from poverty, through,\nfor example, adverse incorporation (Wood 2000).6\n3 What are the characteristics of chronic poverty?\nThe defining feature of ‘chronic poverty’ is its extended duration. Poverty that is both\nsevere and multi-dimensional but does not last a ‘long’ time, is by its",
+      "nd relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional",
+      "provide a common point of\ndeparture and to facilitate the drafting of these overview papers. On the basis of the overview\npapers and subsequent discussion and debate, ideas surrounding the meaning of chronic\npoverty have evolved, resulting in the present paper.  As our understanding of chronic poverty\ncontinues to develop, further papers on its characteristics, measurement, causes and solutions\nw"
+    ],
+    "response":"The defining characteristic of chronic poverty is its extended duration.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.036873849,
+    "generation_time_sec":0.543236825,
+    "total_time_sec":0.580110674,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        9
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        40
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      "understanding of casual factors and\nprocesses.\n3. A five-tiered categorisation of poverty is proposed ( Figure 3). This identifies the\nalways poor, usually poor, churning poor, occasionally poor and never poor. The\nfirst two categories are chronically poor, the next two transitorily poor and the last\none is non-poor. Charting the factors that are associated with transitions in the\npoverty status o",
+      "4\nList of figures\nFigure 1: Chronic poverty research agenda 7\nFigure 2: Intersecting characteristics of chronic poverty 10\nFigure 3: The chronic poor, transient poor and non-poor – a\ncategorisation\n13\nFigure 4: Categorising the poor in terms of duration and severity\nof poverty – some examples\n13\nFigure 5: Intergenerational transmission of poverty 17\nFigure 6: Aggregating the multiple dimensions of",
+      "3\nTable of contents\nTitle page and acknowledgements 1\nAbstract 2\nTable of contents 3\nList of figures and list of tables 4\nAbbreviations 4\n1 Background 5\n2 Frameworks for understanding and measuring poverty 6\n2.1 Material poverty, money-metric measurement approaches and multi-\ndimensional concepts of poverty\n6\n2.2 Absolute and relative poverty 8\n2.3 Subjective poverty assessments 8\n2.4 Capabilities"
+    ],
+    "response":"The five categories of poverty proposed in the paper are:\n\n1. Always poor\n2. Usually poor\n3. Churning poor\n4. Occasionally poor\n5. Never poor",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.03888022,
+    "generation_time_sec":1.301236054,
+    "total_time_sec":1.340116274,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        33
+      ],
+      [
+        "0008-pdf.pdf",
+        3
+      ],
+      [
+        "0008-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1",
+      "puter network (if applicable), \nclick on the File tab, click on New, then click \non My Templates to display the New \nPresentation dialog box. Click on a template, \nthen click on [OK].  \n \nPowerPoint 2010 comes complete with a \nrange of sample templates that you can \nuse. Each template already contains a \nparticular design and layout, so you can \nchoose the template that will most closely \nrepresen",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 8  Creating a presentation \nCREATING A PRESENTATION BASED ON A THEME \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTry This Yourself: \n \nBefore starting this \nexercise ensure that \nPowerPoint is open... \n1 Click on the File tab, then click on New to display \nBackstage view \n2 Click on Themes, then scroll down to view"
+    ],
+    "response":"The tasks covered in the PowerPoint 2010 training guide include creating presentations based on themes and templates.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.05361087,
+    "generation_time_sec":0.486148282,
+    "total_time_sec":0.539759152,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        0
+      ],
+      [
+        "0009-pdf.pdf",
+        6
+      ],
+      [
+        "0009-pdf.pdf",
+        7
+      ]
+    ]
+  },
+  {
+    "config":"small_E5",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "on by the audience, keep text to a minimum. It is \nimportant to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea or key topic.  \n Limit each slide to between three and five bullet points to support the main \nidea. \n Try and keep each bullet point to a single line of text. \n \nReadability \nFont choice and size",
+      "lides. \n Keep the number of colours you use to a minimum. Generally two to three \ncolours per slide is ample. Make sure the colours complement each other and \ndo not interfere with your message. \n \nConsistency \nTo ensure a professional design across your slide presentation, it is important to \nensure a consistent look and feel across each slide. People like to see repeating \nelements on each slid",
+      "re a consistent look and feel across each slide. People like to see repeating \nelements on each slide. Here are a few ways you can ensure consistency and also \nsave time when creating presentations. \n Use a design template. Design templates already contain the fonts, colours \nand other visual elements, so all you have to do is to type in your text. Each \nslide will have the same look as the other"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include:\n1. Using a slide to introduce one main idea or key topic.\n2. Limiting each slide to between three and five bullet points supporting the main idea.\n3. Keeping each bullet point to a single line of text.\n4. Choosing a minimal number of colors (two to three per slide) that complement each other and do not interfere with the message.\n5. Ensuring consistency across slides through repeated elements such as fonts, colors, and other visual elements.\n6. Utilizing a design template that contains pre-defined fonts, colors, and visual elements to maintain uniformity throughout the presentation.",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.041195161,
+    "generation_time_sec":1.290334655,
+    "total_time_sec":1.331529816,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh Assurance Overall, very good management of risk. An effective control environment appears to be in operation. \nSubstantial Assurance Overall, good management of risk with few weaknesses identified.  An effective control environment is in operation but there is scope for further improvement in the areas identified. \nReasonable Assurance Overall, satisfactory management of risk with a number of weakn",
+      "Information Security Checks (March) 2016\/17 \nCity of York Council \nInternal Audit Report  \n \n \n \n \n \nService Area: Corporate and Cross-Cutting \nResponsible Officer: Assistant Director, Legal and Governance \nService Manager: Information Governance and Feedback Team Manager \nVersion: Final \nDate Issued: 1 June 2017 \nReference: 10260\/022 \n \nOverall Audit Opinion Reasonable Assurance \nActions \nP1 P2 P3 \n0\n \n  \n3 0",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and conf"
+    ],
+    "response":"The overall audit opinion was \"Reasonable Assurance.\"",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.024131984,
+    "generation_time_sec":0.447975386,
+    "total_time_sec":0.47210737,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        0
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "olicy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to the building.  \n3.2 There remain improvements to be made to protect against deliberate unauthorised access by ensuring all personal and sensitive \ninformation is locked away across all areas of the council. Action is also required to ensure that confidential information (e.g. financial data) \nis kept securely. It was pleasing to note that there was an overall improvement in these checks, from the previous ones done in September \n2016.",
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nleft on desks or on open storage (i.e. shelving).   \n \n- Across both sites, a significant number of  council assets were left unsecured, including laptops, cameras and keys to properties and \nvehicles. \n \nWhilst the Hazel Court site and building security p rovides protection against external breaches of information, reliance should not be \nplaced solely on the perimeter security and sensitive informa",
+      "improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformation they hold within their area of the building."
+    ],
+    "response":"At West Offices, some cupboards containing sensitive, personal, or confidential information were unsecured, and a few documents were not stored properly. At Hazel Court, some cupboards containing personal and sensitive information were left unlocked, and sensitive information was sometimes left on desks or open storage. Both sites had many council assets, such as laptops, cameras, and keys, left unsecured.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.021178491,
+    "generation_time_sec":0.922256774,
+    "total_time_sec":0.943435265,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "6\nThis paper provides an overview of the meaning of ‘chronic poverty’ and frameworks\nfor analysing it (Figure 1). In the first section, the major frameworks for conceptualising\n(defining and explaining) and measuring poverty in its broader sense are reviewed in\nbrief, and related to the study of chronic poverty. Frameworks for understanding and\nmeasuring chronic poverty, with a focus on its characteristics, causes, and the units of\nanalysis to which it can relate, are then laid out. The focus of the paper is conceptual;\nmethodological issues are largely left for the Chronic Poverty Research Toolbox.2\n2 Frameworks for understanding and measuring poverty\nA number of poverty frameworks may be useful for understanding and measuring\nchronic poverty. As there are several good, up-to-date reviews",
+      "34\n6 Conclusion\nThis paper has reviewed the meaning of ‘chronic poverty’, and the analytical\nframeworks that might be used to understand it, to provide guidance to researchers on\nchronic poverty. A number of key points emerge.\n1. The study of chronic poverty in recent years has tended to focus on quantitative\nmeasures of income, expenditure or consumption. Such an approach will play an\nimportant role in future research but must be complemented by work that takes a\nmulti-dimensional view of poverty that is qualitative and that permits subjective\nassessment by poor people themselves.\n2. Research should focus primarily on those who experience (or are likely to\nexperience) poverty for extended periods of time (say 5 years or more) and the\nprocesses that keep them poor. While ‘long duration’ is",
+      "e indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, usually\npoor, churning poor, occasionally poor and"
+    ],
+    "response":"The defining characteristic of chronic poverty is long duration, meaning that individuals or households experience poverty for extended periods of time, typically five years or more.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.019974045,
+    "generation_time_sec":0.583812662,
+    "total_time_sec":0.603786707,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        5
+      ],
+      [
+        "0008-pdf.pdf",
+        33
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      "3\nTable of contents\nTitle page and acknowledgements 1\nAbstract 2\nTable of contents 3\nList of figures and list of tables 4\nAbbreviations 4\n1 Background 5\n2 Frameworks for understanding and measuring poverty 6\n2.1 Material poverty, money-metric measurement approaches and multi-\ndimensional concepts of poverty\n6\n2.2 Absolute and relative poverty 8\n2.3 Subjective poverty assessments 8\n2.4 Capabilities and freedoms 9\n2.5 Vulnerability 9\n3 What are the characteristics of chronic poverty? 10\n3.1 Duration of poverty 11\n3.2 Intergenerational poverty 14\n3.3 Severity and ‘ultrapoverty’ 18\n3.4 Perceptions of chronic poverty 19\n3.5 Multi-dimensional poverty 20\n3.6 The chronic poor – a heterogeneous group 21\n4 What are the causes of chronic poverty? 22\n4.1 Little pictures and big pictures 22\n4.2 Analyti",
+      "t is needed are\nqualitative and quantitative models which identify the key ‘drivers’ of poverty in\nparticular situations – the original causes of being in or falling into poverty for\nindividuals, households and regions; what the key ‘maintainers’ are – the factors which\nkeep people in poverty over long periods; and the key ‘interrupters’ – the factors and\nactions which permit escape. These drivers, maintainers and interrupters may be\nsingle, sequential and\/or combinations. The more chronic and intractable the poverty,\nthe more likely it is that we should be looking for sequences and combinations of\nfactors to enable escape from, or even further slide into poverty (see Table 7 for an\nexample).\nTable 7: Framework for the analysis of multi-dimensional poverty in Meena\nBhil, Western India\nSing",
+      "ost situations this group should\nmerit less research priority from the CPRC than the ‘core’ chronic poor identified\nabove.\nJalan and Ravallion (2000) have explored these issues with reference to a six-year\npanel of rural households in China for which there is expenditure data. They utilise a\nfour-tiered categorisation of poverty. Building on their work, but modifying it and using\nsome terms differently, we propose a five-tier category system for CPRC work (Figure\n3). This recognises:\n• Always poor – expenditure or incomes or consumption levels in each period below\na poverty line\n• Usually poor – mean expenditures over all periods less than the poverty line but not\npoor in every period\n• Churning poor – mean expenditures over all periods close to the poverty line but\nsometimes poor and some"
+    ],
+    "response":"The five categories of poverty proposed in the paper are:\n1. Always poor\n2. Usually poor\n3. Churning poor\n4. Transitory poor\n5. Non-poor",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.021956354,
+    "generation_time_sec":0.718496216,
+    "total_time_sec":0.74045257,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        2
+      ],
+      [
+        "0008-pdf.pdf",
+        32
+      ],
+      [
+        "0008-pdf.pdf",
+        11
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 13  Creating a presentation \nCONCLUDING REMARKS \n \n \n \n \nCongratulations!  \nYou have now completed the Creating a presentation booklet.  This booklet was \ndesigned to get you to the point where you can competently perform a variety of \noperations as outlined in the task list on page 2.  \nWe have tried to build up your skills and knowledge by having you work through specific \ntasks. The step by step approach will serve as a reference for you when you need to repeat \na task. \n \nWhere To From Here… \nThe following is a little advice about what to do next: \n Spend some time playing with what you have learnt. You should reinforce the skills \nthat you have acquired and use some of the application's commands. This will t",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 5  Creating a presentation \nDESIGNING A PRESENTATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe design and layout of your \npresentation will affect whether you get \nyour message across as intended. \nAlthough PowerPoint provides many \n‘whizz-bang’ features, these should be \nused sparingly and only to reinforce your \nmessage.  Poorly-designed presentations \nmay distract the audience and reduce \nunderstanding. Keep the following in mind \nwhen designing presentations. \nComprehension \nTo ensure easy comprehension by the audience, keep text to a minimum. It is \nimportant to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea",
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1"
+    ],
+    "response":"The context does not provide an explicit list of tasks covered in the PowerPoint 2010 training guide.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.021703845,
+    "generation_time_sec":0.490748249,
+    "total_time_sec":0.512452094,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        12
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        0
+      ]
+    ]
+  },
+  {
+    "config":"medium_MiniLM",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "important to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea or key topic.  \n Limit each slide to between three and five bullet points to support the main \nidea. \n Try and keep each bullet point to a single line of text. \n \nReadability \nFont choice and size will impact on readability. The following guidelines will help \nyou to design readable slides. \n Use a sans-serif font. A sans-serif font doesn’t have ‘tails’ at the top or \nbottom of each letter. Arial is an example of a sans-serif font, while Times New \nRoman is a serif font. Note: Verdana is the coporate font that should be used \non all work related presentations. \n Make sure the font is large enough. Slide text should be visible from the ba",
+      "coporate font that should be used \non all work related presentations. \n Make sure the font is large enough. Slide text should be visible from the back \nof the room. Generally, headings are around 36-45 points, while the main \nbody of text and bullet points is around 22 points. \n Make good use of white space on each slide. The more white space that \nappears on a slide, the easier it will be for the audience to read what does \nappear. Try to keep a minimum of 20 per cent of white space on all slides. \n Keep the number of colours you use to a minimum. Generally two to three \ncolours per slide is ample. Make sure the colours complement each other and \ndo not interfere with your message. \n \nConsistency \nTo ensure a professional design across your slide presentation, it is important to \nensu",
+      "with the last selected slide \nlayout.  \n3 \nWhile you really should have decided on \nthe content of the presentation well before \nstarting to build it in PowerPoint, the \nreality is that you’ll probably need to \nchange the content at some stage. This \ncan mean editing or inserting more text, as \nwell as inserting slides in between others \nslides. You can insert text and slides easily in \nthe Outline pane. \n5 \n6"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include:\n1. Using a slide to introduce one main idea or key topic.\n2. Limiting each slide to between three and five bullet points supporting the main idea.\n3. Keeping each bullet point to a single line of text.\n4. Using a sans-serif font like Arial or Verdana for readability.\n5. Ensuring the font size is large enough for visibility from the back of the room; headings around 36-45 points and body text\/bullet points around 22 points.\n6. Utilizing white space effectively, maintaining at least 20% white space on each slide.\n7. Using no more than two to three complementary colors per slide.\n8. Maintaining consistency throughout the presentation by adhering to the chosen layout and style.",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.021233437,
+    "generation_time_sec":1.848949595,
+    "total_time_sec":1.870183032,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        10
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh Assurance Overall, very good management of risk. An effective control environment appears to be in operation. \nSubstantial Assurance Overall, good management of risk with few weaknesses identified.  An effective control environment is in operation but there is scope for further improvement in the areas identified. \nReasonable Assurance Overall, satisfactory management of risk with a number of weakn",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and conf",
+      "3.3 Overall, there is currently satisfactory management of risk but a number of weaknesses were identified. An acceptable control environment \nis in operation but there are a number of improvements that should be made. Our opinion of the controls within the system at the time of \nthe audit was that they provided Reasonable Assurance. \n3.4   Further information security checks will be undertaken in 2017-18 and these will take place following implementation of new key storage \narrangements, which should improve the compliance with the requirement to lock all cupboards. Howeve r, this also needs to be supported \nby a culture that recognises the importance of securing data within the office and within each team area and not to rely solely on perimeter \nsecurity and recognises all information h"
+    ],
+    "response":"The overall audit opinion was \"Reasonable Assurance.\"",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.033511193,
+    "generation_time_sec":0.424449496,
+    "total_time_sec":0.457960689,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ],
+      [
+        "0007-pdf.pdf",
+        3
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nleft on desks or on open storage (i.e. shelving).   \n \n- Across both sites, a significant number of  council assets were left unsecured, including laptops, cameras and keys to properties and \nvehicles. \n \nWhilst the Hazel Court site and building security p rovides protection against external breaches of information, reliance should not be \nplaced solely on the perimeter security and sensitive informa",
+      "improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformation they hold within their area of the building.",
+      "olicy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to the building.  \n3.2 There remain improvements to be made to protect against deliberate unauthorised access by ensuring all personal and sensitive \ninformation is locked away across all areas of the council. Action is also required to ensure that confidential information (e.g. financial data) \nis kept securely. It was pleasing to note that there was an overall improvement in these checks, from the previous ones done in September \n2016."
+    ],
+    "response":"At West Offices, some cupboards containing sensitive, personal, or confidential information were unsecured, and only a few documents were not stored in cupboards. At Hazel Court, some cupboards containing personal and sensitive information were left unlocked, and sensitive information was left on desks or open storage. Additionally, across both sites, many council assets such as laptops, cameras, and keys to properties and vehicles were left unsecured.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.064263311,
+    "generation_time_sec":9.735769014,
+    "total_time_sec":9.800032325,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "e indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, usually\npoor, churning poor, occasionally poor and",
+      "ificant differences across groups missed\nby measures of deficits in current consumption and expenditure. It will be important for\nCPRC researchers to engage with these issues of vulnerability, both in terms of\ndifferential vulnerabilities to shocks leading to spells of poverty, as well the manner in\nwhich vulnerability interacts with risk aversion to hinder escape from poverty, through,\nfor example, adverse incorporation (Wood 2000).6\n3 What are the characteristics of chronic poverty?\nThe defining feature of ‘chronic poverty’ is its extended duration. Poverty that is both\nsevere and multi-dimensional but does not last a ‘long’ time, is by its nature not\nchronic.7 However, it is hypothesised that duration, multi-dimensionality and severity of\npoverty build upon each other. Thus, while those",
+      "2\nAbstract\nThis paper provides an overview of the meaning of ‘chronic poverty’, and identifies\nframeworks for analysing it. In the first section, the major frameworks for\nconceptualising, defining, explaining, and measuring poverty in its broader sense are\nreviewed in brief, and related to the study of chronic poverty. It is suggested that\nresearch undertaken by the Chronic Poverty Research Centre (CPRC) should focus on\npoverty in its broadest, multi-dimensional sense, and that those who are chronically\npoor are likely to be poor in several ways, not only in terms of income. At the same\ntime, the analysis of money-metric and other quantitative indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in r"
+    ],
+    "response":"The defining characteristic of chronic poverty is its extended duration.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.051164879,
+    "generation_time_sec":0.428820229,
+    "total_time_sec":0.479985108,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        9
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      "r are likely to\nexperience) poverty for extended periods of time (say 5 years or more) and the\nprocesses that keep them poor. While ‘long duration’ is the key criterion it can also\nbe hypothesised that chronic poverty will often be multi-dimensional and severe.\nWhile poverty trends are of interest the prime focus is on the poverty dynamics of\nindividuals, households and social groups. We propose that chronicity be primarily\nconceptualised by CPRC researchers as ‘poverty spells’. However, at times an\nanalysis of ‘poverty components’ may aid the understanding of casual factors and\nprocesses.\n3. A five-tiered categorisation of poverty is proposed ( Figure 3). This identifies the\nalways poor, usually poor, churning poor, occasionally poor and never poor. The\nfirst two categories are chronicall",
+      "e indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, usually\npoor, churning poor, occasionally poor and",
+      "3\nTable of contents\nTitle page and acknowledgements 1\nAbstract 2\nTable of contents 3\nList of figures and list of tables 4\nAbbreviations 4\n1 Background 5\n2 Frameworks for understanding and measuring poverty 6\n2.1 Material poverty, money-metric measurement approaches and multi-\ndimensional concepts of poverty\n6\n2.2 Absolute and relative poverty 8\n2.3 Subjective poverty assessments 8\n2.4 Capabilities and freedoms 9\n2.5 Vulnerability 9\n3 What are the characteristics of chronic poverty? 10\n3.1 Duration of poverty 11\n3.2 Intergenerational poverty 14\n3.3 Severity and ‘ultrapoverty’ 18\n3.4 Perceptions of chronic poverty 19\n3.5 Multi-dimensional poverty 20\n3.6 The chronic poor – a heterogeneous group 21\n4 What are the causes of chronic poverty? 22\n4.1 Little pictures and big pictures 22\n4.2 Analyti"
+    ],
+    "response":"The five categories of poverty proposed in the paper are:\n\n1. Always poor\n2. Usually poor\n3. Churning poor\n4. Occasionally poor\n5. Never poor",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.03863024,
+    "generation_time_sec":0.686807938,
+    "total_time_sec":0.725438178,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        33
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        2
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "tab, click on New, then click \non My Templates to display the New \nPresentation dialog box. Click on a template, \nthen click on [OK].  \n \nPowerPoint 2010 comes complete with a \nrange of sample templates that you can \nuse. Each template already contains a \nparticular design and layout, so you can \nchoose the template that will most closely \nrepresent the tone of your presentation. \nThen all you really need to do is to type the \ntext. Sample templates can also be \ndownloaded freely from Microsoft’s website. \n3 \n5 \n6 \nTry This Yourself: \n Before starting this exercise \nensure PowerPoint is open... \n1 Click on the File tab, then click on New to display Available \nTemplates and Themes \n2 Click on Sample Templates to display the range of installed \ntemplates \n3 Click on Training, then click on [",
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 13  Creating a presentation \nCONCLUDING REMARKS \n \n \n \n \nCongratulations!  \nYou have now completed the Creating a presentation booklet.  This booklet was \ndesigned to get you to the point where you can competently perform a variety of \noperations as outlined in the task list on page 2.  \nWe have tried to build up your skills and knowledge by having you work through specific \ntasks. The step by step approach will serve as a reference for you when you need to repeat \na task. \n \nWhere To From Here… \nThe following is a little advice about what to do next: \n Spend some time playing with what you have learnt. You should reinforce the skills \nthat you have acquired and use some of the application's commands. This will t"
+    ],
+    "response":"The context does not explicitly list the tasks covered in the PowerPoint 2010 training guide.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.037502262,
+    "generation_time_sec":0.499792796,
+    "total_time_sec":0.537295058,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        6
+      ],
+      [
+        "0009-pdf.pdf",
+        0
+      ],
+      [
+        "0009-pdf.pdf",
+        12
+      ]
+    ]
+  },
+  {
+    "config":"medium_E5",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "ther and \ndo not interfere with your message. \n \nConsistency \nTo ensure a professional design across your slide presentation, it is important to \nensure a consistent look and feel across each slide. People like to see repeating \nelements on each slide. Here are a few ways you can ensure consistency and also \nsave time when creating presentations. \n Use a design template. Design templates already contain the fonts, colours \nand other visual elements, so all you have to do is to type in your text. Each \nslide will have the same look as the others in the presentation. \n Use the same background design on all slides. PowerPoint has many \nbackground designs for you to choose from, which can be easily applied to all \nslides.  Note: there are WSCC corporate templates on the intranet \n Use the s",
+      "u need to include a \nslide that provides a plan of action or contact details. \nTimeframe How much time do you have to present the information? Make sure you \ndon’t have too many slides to cover in the available time. It is highly \nunlikely that you will have too few, but if you do you can simply make \nmore time available for questions or discussion. \nTime of Day If you are presenting in the early afternoon or evening, you may want \nto add a bit more pizzazz to retain audience interest than if you are \npresenting early in the morning. \nPresentation \nMethod \nThis is another important consideration, as it will affect the \npresentation design also. For example, if you are printing the slides to \nuse on an overhead transparency projector, you will need to ensure \nyou have little to no colour (o",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 5  Creating a presentation \nDESIGNING A PRESENTATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe design and layout of your \npresentation will affect whether you get \nyour message across as intended. \nAlthough PowerPoint provides many \n‘whizz-bang’ features, these should be \nused sparingly and only to reinforce your \nmessage.  Poorly-designed presentations \nmay distract the audience and reduce \nunderstanding. Keep the following in mind \nwhen designing presentations. \nComprehension \nTo ensure easy comprehension by the audience, keep text to a minimum. It is \nimportant to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include ensuring consistency across slides, using a design template, applying the same background design on all slides, keeping text minimal and being concise, and using \"whizz-bang\" features sparingly to reinforce the message.",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.039670754,
+    "generation_time_sec":0.753542915,
+    "total_time_sec":0.793213669,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        2
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh Assurance Overall, very good management of risk. An effective control environment appears to be in operation. \nSubstantial Assurance Overall, good management of risk with few weaknesses identified.  An effective control environment is in operation but there is scope for further improvement in the areas identified. \nReasonable Assurance Overall, satisfactory management of risk with a number of weaknesses identified.  An acceptable control environment is in operation but there are a number of improvements that could be made. \nLimited Assurance Overall, poor management of risk with significant control weaknesses in key areas and major improvements required before an effective control environment will be in operation. \nNo Assurance Overall, there is a fundamental failure in control and risks are not being effectively managed.  A number of key areas require substantial improvement to protect the system from error and abuse. \n \nPriorities for Actions \nPriority 1 A fundamental system weakness,",
+      "Information Security Checks (March) 2016\/17 \nCity of York Council \nInternal Audit Report  \n \n \n \n \n \nService Area: Corporate and Cross-Cutting \nResponsible Officer: Assistant Director, Legal and Governance \nService Manager: Information Governance and Feedback Team Manager \nVersion: Final \nDate Issued: 1 June 2017 \nReference: 10260\/022 \n \nOverall Audit Opinion Reasonable Assurance \nActions \nP1 P2 P3 \n0\n \n  \n3 0",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformat"
+    ],
+    "response":"The overall audit opinion was \"Reasonable Assurance.\"",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.026711151,
+    "generation_time_sec":0.420310943,
+    "total_time_sec":0.447022094,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        0
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nleft on desks or on open storage (i.e. shelving).   \n \n- Across both sites, a significant number of  council assets were left unsecured, including laptops, cameras and keys to properties and \nvehicles. \n \nWhilst the Hazel Court site and building security p rovides protection against external breaches of information, reliance should not be \nplaced solely on the perimeter security and sensitive information must also be protected from internal breaches. \n \n \n- xxxxxxxxxx \n \n- xxxxxxxxxx \n \n2.5 All individual items of information found during these checks have been rated according to the level of risk they pose if thi s information was \naccessed inappropriately, disclosed or lost. All items recorded pose some risk and action should be taken . Specific attention should be \npaid to those rated as medium and high risk in the attached detailed findings, Annex 3. \n \n2.6 Testing undertaken at Yorkcraft found that there were good systems and processes in place for the secure storage of archived info",
+      "edium and high risk in the attached detailed findings, Annex 3. \n \n2.6 Testing undertaken at Yorkcraft found that there were good systems and processes in place for the secure storage of archived informa tion \nand the secure destruction of confidential information. No issues requiring action have been raised in relation to the Yorkcr aft visit; detailed \nfeedback has been provided to the information governance and feedback team manager and Yorkcraft manager. \n \nOverall Conclusions \n \n3.1 The council remains reasonably well protected against accidental disclosure of information . The vast majority of informa tion is stored in \ncupboards, cupboard doors  are closed  and in these checks, the majority of cupboards were loc ked. The clear desk policy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to the building.  \n3.2 There remain improvements to be made to protect against deliberate unauthorised access by ensuring all personal and sensitive \ninformation is locked away across all areas of the council. Action is also required to ensure that confidential information (e.g. financial data) \nis kept securely. It was pleasing to note that there was an overall improvement in these checks, from the",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformat"
+    ],
+    "response":"At West Offices, some cupboards containing sensitive, personal, or confidential information were unsecured, and only a small number of documents were not stored in cupboards. At Hazel Court, some cupboards containing personal and sensitive information were left unlocked, and sensitive information was left on desks or on open storage. Additionally, across both sites, a significant number of council assets such as laptops, cameras, and keys to properties and vehicles were left unsecured.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.033774903,
+    "generation_time_sec":0.998878136,
+    "total_time_sec":1.032653039,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "2\nAbstract\nThis paper provides an overview of the meaning of ‘chronic poverty’, and identifies\nframeworks for analysing it. In the first section, the major frameworks for\nconceptualising, defining, explaining, and measuring poverty in its broader sense are\nreviewed in brief, and related to the study of chronic poverty. It is suggested that\nresearch undertaken by the Chronic Poverty Research Centre (CPRC) should focus on\npoverty in its broadest, multi-dimensional sense, and that those who are chronically\npoor are likely to be poor in several ways, not only in terms of income. At the same\ntime, the analysis of money-metric and other quantitative indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, u",
+      "34\n6 Conclusion\nThis paper has reviewed the meaning of ‘chronic poverty’, and the analytical\nframeworks that might be used to understand it, to provide guidance to researchers on\nchronic poverty. A number of key points emerge.\n1. The study of chronic poverty in recent years has tended to focus on quantitative\nmeasures of income, expenditure or consumption. Such an approach will play an\nimportant role in future research but must be complemented by work that takes a\nmulti-dimensional view of poverty that is qualitative and that permits subjective\nassessment by poor people themselves.\n2. Research should focus primarily on those who experience (or are likely to\nexperience) poverty for extended periods of time (say 5 years or more) and the\nprocesses that keep them poor. While ‘long duration’ is the key criterion it can also\nbe hypothesised that chronic poverty will often be multi-dimensional and severe.\nWhile poverty trends are of interest the prime focus is on the poverty dynamics of\nindividuals, households and social groups. We propose that chronicity be primarily\nconceptualised by CPRC researchers as ‘poverty spells’. However, at times an\nanalysis of ‘poverty components’ may aid the understanding of casual factors and\nprocesses.\n3. A five-tiered categorisation of poverty is proposed ( Figure 3). This identifies the\nalways poor, usually poor, churning poor, occasionally poor and n",
+      "be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, usually\npoor, churning poor, occasionally poor and never poor – and that transitions between\ndifferent levels over time be closely monitored. It is suggested that the tightest possible\ndefinition of chronic poverty would be intergenerationally transmitted (IGT) poverty,\nwhich, while it may or may not be severe, is likely to be relatively intractable, and\ntherefore is likely to escape current poverty reduction efforts. In this way, IGT poverty is\nboth a characteristic and cause of chronic poverty. The subsection on IGT poverty\ndraws upon the literature surrounding the intergenerational transfer of different capitals:\nhuman, social-cultural, social-political, financial\/material and environmental\/natural. An\nanalysis of the ways in which severity and multi-dimensionality are often characteristics\nof chronic poverty, and a brief review of the relevance of the World Bank’s Voices of\nthe Poor studies to an understanding of chronic poverty, conclude this section.\nThe chronic poor, it is argued, are a heterogeneous group. There are several sets of\npeople who are particularly susceptible to chronic poverty, and that are likely to\nexperience multiple and overlapping vulnerabilities. These gro"
+    ],
+    "response":"The defining characteristic of chronic poverty is long duration; specifically, poverty lasting for extended periods of time, such as 5 years or more.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.02712467,
+    "generation_time_sec":0.648913065,
+    "total_time_sec":0.676037735,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        33
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      "time: these combinations keep them in poverty and block off opportunities for escape.\nAn obvious example are low caste widows living in remote areas in India: their poverty\nis sustained through the interaction of gender, caste and age discrimination and\ngeographical location.\nIncome-\nand\nhealth-\npoor\nIncome-\npoor\nHealth-\npoor\nFigure 6:  Aggregating the multiple\ndimensions of poverty\nSource: World Bank (2000: 22).\nHealth\nIncome\nNote: H is the threshold defining the health-poor,\nand Y that defining the income-poor.\nY\nH",
+      "3\nTable of contents\nTitle page and acknowledgements 1\nAbstract 2\nTable of contents 3\nList of figures and list of tables 4\nAbbreviations 4\n1 Background 5\n2 Frameworks for understanding and measuring poverty 6\n2.1 Material poverty, money-metric measurement approaches and multi-\ndimensional concepts of poverty\n6\n2.2 Absolute and relative poverty 8\n2.3 Subjective poverty assessments 8\n2.4 Capabilities and freedoms 9\n2.5 Vulnerability 9\n3 What are the characteristics of chronic poverty? 10\n3.1 Duration of poverty 11\n3.2 Intergenerational poverty 14\n3.3 Severity and ‘ultrapoverty’ 18\n3.4 Perceptions of chronic poverty 19\n3.5 Multi-dimensional poverty 20\n3.6 The chronic poor – a heterogeneous group 21\n4 What are the causes of chronic poverty? 22\n4.1 Little pictures and big pictures 22\n4.2 Analytical frameworks 24\n4.2.1 Quantitative panel data set analysis 24\n4.2.2 Livelihoods analysis 25\n4.2.3 Freedoms 27\n4.2.4 Social exclusion 27\n4.2.5 A chronic poverty policy framework 29\n4.3 Units of analysis 30\n4.3.1 Household 30\n4.3.2 Individual 30\n4.3.3 Social groups 30\n4.3.4 Geographical areas 31\n5 Linking analysis to action 32\n6 Conclusion 34\nReferences 35\nAppendix: Why does growing up poor in the US hurt children’s economic\nstatus? Findings from research using panel data\n39\nEndnotes 41",
+      "d on health\nstatus, e.g. HIV\/AIDS,\nimpairment\nPoverty based on position in\nhousehold e.g. older people,\ndisabled, women, children\nPoverty based on geographic\nlocation e.g. remote rural areas,\narid or mountainous areas,\nurban slums, zones of conflict\nSpatial\npoverty\ntraps\nShocks (agro-\necological, economic,\npolitical, demographic)\nMultiple\nvulnerabilities\nStructural factors, e.g.\nunequal relationships in\neconomic (particularly\nlabour markets and\nterms of trade), political\nand social spheres (i.e.\nsocial exclusion)\nMulti-\ndimensional\nPoverty based on position in\ncommunity or nation e.g.\nmarginalised  class or caste, tribe,\nethnic group, religion, refugees,\npastoralists, migrants\/non-migrants\nUnits of analysis\n• Individuals\n• Households\n• Social groups\n• Areas\n• Countries\nC\nO\nM\nB\n I\nN\nA\nT\n I\nO\nN\nS\nO\nF\nLow asset\nstatus"
+    ],
+    "response":"The five categories of poverty proposed in the paper are:\n1. Income-poverty\n2. Health-poverty\n3. Spatial poverty traps\n4. Multiple vulnerabilities\n5. Multi-dimensional poverty",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.020604989,
+    "generation_time_sec":0.642401953,
+    "total_time_sec":0.663006942,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        20
+      ],
+      [
+        "0008-pdf.pdf",
+        2
+      ],
+      [
+        "0008-pdf.pdf",
+        6
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 13  Creating a presentation \nCONCLUDING REMARKS \n \n \n \n \nCongratulations!  \nYou have now completed the Creating a presentation booklet.  This booklet was \ndesigned to get you to the point where you can competently perform a variety of \noperations as outlined in the task list on page 2.  \nWe have tried to build up your skills and knowledge by having you work through specific \ntasks. The step by step approach will serve as a reference for you when you need to repeat \na task. \n \nWhere To From Here… \nThe following is a little advice about what to do next: \n Spend some time playing with what you have learnt. You should reinforce the skills \nthat you have acquired and use some of the application's commands. This will test \njust how much of the concepts and features have stuck! Don't try a big task just yet if \nyou can avoid it - small is a good way to start. \n Some aspects of the course may now be a little vague. Go over some of the points \nthat you may be unclear about. Use the examples and exercises in these notes and \nhave another go - these step-by-step notes were designed to help you in the \nclassroom and in the work place! \nHere are a few techniques and strategies that we've found handy for learning more about \ntechnology: \n visit CLD’s e-learning zone on the Intranet  \n read computer magazines - t",
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 11  Creating a presentation \nINSERTING SLIDES AND TEXT \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTry This Yourself: \nSame File Continue using the \nprevious file with this \nexercise, or open the file \nP803 Creating A \nPresentation_1.pptx... \n1 In the Outline pane, click at the end of Fuel Cell \nSystems in slide 3  \n2 Click on the Home tab, then click on the bottom \nhalf of New Slide \n  in \nthe Slides group to display \nthe Layout gallery \nWe will insert a new text \n(content) slide... \n3 Click on Title and Content to insert a new \nslide with a title and \ncontent layout \n4 Type Freight, then press \n  and then \n  to start a \nbulleted list \n5 Type the text as shown, pressing \n  at the end of \nthe first two bullet points \n6 Click on Save \n  in the \nQuick Access Toolbar to \nsave the changes to your \npresentation \nSlide 4 should appear as \nshown \n \nFor Your Reference… \nTo insert a new slide using the Outline \npane: \n1. Click at the end of the line after which \nyou want to insert a new slide \n2. Click on the top half of New Slide \n  \nin the Slides group on the Home tab \nHandy to Know… \n If you click on the top half of New \nSlide \n  in the Slides group, a new \nslide will be inserted into the \npresentation with the last selected slide \nlayout.  \n3 \nWhile you really should have decided on \nthe content of"
+    ],
+    "response":"The context does not provide an explicit list of tasks covered in the PowerPoint 2010 training guide.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.020359756,
+    "generation_time_sec":1.54679853,
+    "total_time_sec":1.567158286,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        12
+      ],
+      [
+        "0009-pdf.pdf",
+        0
+      ],
+      [
+        "0009-pdf.pdf",
+        10
+      ]
+    ]
+  },
+  {
+    "config":"large_MiniLM",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 5  Creating a presentation \nDESIGNING A PRESENTATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe design and layout of your \npresentation will affect whether you get \nyour message across as intended. \nAlthough PowerPoint provides many \n‘whizz-bang’ features, these should be \nused sparingly and only to reinforce your \nmessage.  Poorly-designed presentations \nmay distract the audience and reduce \nunderstanding. Keep the following in mind \nwhen designing presentations. \nComprehension \nTo ensure easy comprehension by the audience, keep text to a minimum. It is \nimportant to be concise when writing for presentations. Use the following \nguidelines when creating slides. \n Use a slide to introduce one main idea or key topic.  \n Limit each slide to between three and five bullet points to support the main \nidea. \n Try and keep each bullet point to a single line of text. \n \nReadability \nFont choice and size will impact on readability. The following guidelines will help \nyou to design readable slides. \n Use a sans-serif font. A sans-serif font doesn’t have ‘tails’ at the top or \nbottom of each letter. Arial is an example of a sans-serif font, while Times New \nRoman is a serif font. Note: Verdana is the coporate font that should be used \non all work related presentations. \n Make sure the font is larg",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 2  Creating a presentation \nCREATING A PRESENTATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPowerPoint can be so much fun to use that it would be easy to \njump in and start playing around without planning your \npresentation first. Unfortunately, if you try this approach, you \ncould spend much more time fiddling with your presentation \nthan is necessary.  \nThe first stage in creating a presentation is to consider the \ndesign of the presentation. You then need to consider the \ncontent − what are the key ideas that you want to get across? \nOnce you have a design and the content sorted out, you can \nuse PowerPoint to put these two together quickly and easily to \ncreate a presentation with a professional and consistent \nappearance. \nIn this booklet we will show you how to: \n gain an understanding of some factors that affect \nthe design of a presentation \n gain an understanding of presentation methods \nand hardware \n gain an understanding of design principles \n create a blank presentation \n create a presentation based on a template \n create a presentation based on a theme \n type text in the Outline pane \n save a presentation \n insert new slides and text \n preview a slide show. \nINFOCUS",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 8  Creating a presentation \nCREATING A PRESENTATION BASED ON A THEME \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTry This Yourself: \n \nBefore starting this \nexercise ensure that \nPowerPoint is open... \n1 Click on the File tab, then click on New to display \nBackstage view \n2 Click on Themes, then scroll down to view the \nrange of available themes \n3 Click on Slipstream, then click on [OK] to create a \nnew presentation based on \nthe Slipstream theme \n \nFor Your Reference… \nTo create a presentation based on a \ntheme: \n1. Click on the File tab, then click on \nNew  \n2. Click on Themes \n3. Click on a theme to select it \n4. Click on [OK] \nHandy to Know… \n You can apply a different theme to an \nexisting themed presentation. To do this, \nclick on the Design tab, then select a \ntheme from the Themes gallery.  \n All new presentations will be based on the \ndefault Office Theme (blank \npresentation) unless you select another \ntheme. \nA theme is a set of colours, fonts and \neffects that you can apply to your \npresentation for a professional-looking \nfinish. Each theme consists of a range of \ncomplimentary colours, styles (fonts) and \neffects, such as animations, so once you’ve \napplied a theme, all you really need to do is \nto type the text. Applying a theme ensures a \nconsistent design across your presenta"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include:\n- Using a slide to introduce one main idea or key topic.\n- Limiting each slide to between three and five bullet points to support the main idea.\n- Trying to keep each bullet point to a single line of text.\n- Using a sans-serif font like Arial for better readability.\n- Ensuring the font size is large enough for easy reading.\n- Avoiding excessive use of \"whizz-bang\" features to prevent distraction and enhance understanding.",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.020646439,
+    "generation_time_sec":1.069038735,
+    "total_time_sec":1.089685174,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        1
+      ],
+      [
+        "0009-pdf.pdf",
+        7
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What was the overall audit opinion?",
+    "retrieved_contexts":[
+      "Annex 2 \nAudit Opinions and Priorities for Actions \nAudit Opinions \nAudit work is based on sampling transactions to test the operation of systems. It cannot guarantee the elimination of fraud or error. Our opinion is based \non the risks we identify at the time of the audit. \nOur overall audit opinion is based on 5 grades of opinion, as set out below. \nOpinion Assessment of internal control \nHigh Assurance Overall, very good management of risk. An effective control environment appears to be in operation. \nSubstantial Assurance Overall, good management of risk with few weaknesses identified.  An effective control environment is in operation but there is scope for further improvement in the areas identified. \nReasonable Assurance Overall, satisfactory management of risk with a number of weaknesses identified.  An acceptable control environment is in operation but there are a number of improvements that could be made. \nLimited Assurance Overall, poor management of risk with significant control weaknesses in key areas and major improvements required before an effective control environment will be in operation. \nNo Assurance Overall, there is a fundamental failure in control and risks are not being effectively managed.  A number of key areas require substantial improvement to protect the system from error and abuse. \n \nPriorities for Actions \nPriority 1 A fundamental system weakness,",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformat",
+      "3.3 Overall, there is currently satisfactory management of risk but a number of weaknesses were identified. An acceptable control environment \nis in operation but there are a number of improvements that should be made. Our opinion of the controls within the system at the time of \nthe audit was that they provided Reasonable Assurance. \n3.4   Further information security checks will be undertaken in 2017-18 and these will take place following implementation of new key storage \narrangements, which should improve the compliance with the requirement to lock all cupboards. Howeve r, this also needs to be supported \nby a culture that recognises the importance of securing data within the office and within each team area and not to rely solely on perimeter \nsecurity and recognises all information held by the council as an asset that needs to be protected. \nActions \n \n4.1 Actions to address the weaknesses identified in this report were agreed by  the Governance, Risk and Assurance Group (GRAG) in May \n2017 and are detailed at Annex 1."
+    ],
+    "response":"The overall audit opinion was Reasonable Assurance.",
+    "reference":"Reasonable Assurance.",
+    "retrieval_time_sec":0.034673432,
+    "generation_time_sec":0.436879889,
+    "total_time_sec":0.471553321,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        5
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ],
+      [
+        "0007-pdf.pdf",
+        3
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What security weaknesses were found at West Offices and Hazel Court?",
+    "retrieved_contexts":[
+      "- In West Offices some cupboards containing sensitive, personal or confidential information were unsecured . There was only a small \nnumber of documents that were not stored in cupboards (i.e. on top of cupboards, on desks, in boxes under or around desks). \n \n- At Hazel Court, some cupboards containing personal and sensitive information were left unlocked and some sensitive informat ion was \nleft on desks or on open storage (i.e. shelving).   \n \n- Across both sites, a significant number of  council assets were left unsecured, including laptops, cameras and keys to properties and \nvehicles. \n \nWhilst the Hazel Court site and building security p rovides protection against external breaches of information, reliance should not be \nplaced solely on the perimeter security and sensitive information must also be protected from internal breaches. \n \n \n- xxxxxxxxxx \n \n- xxxxxxxxxx \n \n2.5 All individual items of information found during these checks have been rated according to the level of risk they pose if thi s information was \naccessed inappropriately, disclosed or lost. All items recorded pose some risk and action should be taken . Specific attention should be \npaid to those rated as medium and high risk in the attached detailed findings, Annex 3. \n \n2.6 Testing undertaken at Yorkcraft found that there were good systems and processes in place for the secure storage of archived info",
+      "edium and high risk in the attached detailed findings, Annex 3. \n \n2.6 Testing undertaken at Yorkcraft found that there were good systems and processes in place for the secure storage of archived informa tion \nand the secure destruction of confidential information. No issues requiring action have been raised in relation to the Yorkcr aft visit; detailed \nfeedback has been provided to the information governance and feedback team manager and Yorkcraft manager. \n \nOverall Conclusions \n \n3.1 The council remains reasonably well protected against accidental disclosure of information . The vast majority of informa tion is stored in \ncupboards, cupboard doors  are closed  and in these checks, the majority of cupboards were loc ked. The clear desk policy is largely \nadhered to throughout West Offices but less so at Hazel Court. Access to West Offices and Hazel Court buildings is controlled, though at \nWest Offices there is a risk of unauthorised access by people who legitimately have access to the building.  \n3.2 There remain improvements to be made to protect against deliberate unauthorised access by ensuring all personal and sensitive \ninformation is locked away across all areas of the council. Action is also required to ensure that confidential information (e.g. financial data) \nis kept securely. It was pleasing to note that there was an overall improvement in these checks, from the",
+      "Summary and Overall Conclusions \nIntroduction and objectives \n1.1 In accordance with the agreed audit plan, information security checks were undertaken during 2016\/17. The purpose of these checks is to \nassess the extent to which confidential, personal  or sensitive data is stored securely and to ensure that data security is being given \nsufficient priority within council departments. This was the second of these checks in this audit year (the first being in September 2016).  \n \n1.2 The previous information security checks were conducted in September and gave an overall opinion of Reasonable Assurance. However, \nit was also observed that past improvements in informatio n security had not been maintained, with large numbers of cupboards being left \nunsecured and sensitive, personal and confidential information was insufficiently protected. As a result, it was agreed that this second \nround of checks would be completed in the 2016-17 audit year. \nScope of the Audit \n1.3 As part of this audit the two main council offices, West Offices  and Hazel Court, were visited. This was the ninth of these information \nsecurity checks since the opening of West Offices in 2013 and the council-wide implementation of a clear desk policy . The increasing \nnumber of non council staff who share West Offices makes it more important for each service to recognise the importance to se cure the \ninformat"
+    ],
+    "response":"At West Offices, some cupboards containing sensitive, personal, or confidential information were unsecured, and only a small number of documents were not stored in cupboards. At Hazel Court, some cupboards containing personal and sensitive information were left unlocked, and sensitive information was left on desks or on open storage. Additionally, across both sites, a significant number of council assets such as laptops, cameras, and keys to properties and vehicles were left unsecured.",
+    "reference":"Some cupboards containing sensitive information were left unlocked, confidential documents were not always stored securely, and assets such as laptops, cameras and keys were unsecured.",
+    "retrieval_time_sec":0.042337157,
+    "generation_time_sec":1.040039283,
+    "total_time_sec":1.08237644,
+    "sources":[
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        2
+      ],
+      [
+        "0007-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What is the defining characteristic of chronic poverty?",
+    "retrieved_contexts":[
+      "2\nAbstract\nThis paper provides an overview of the meaning of ‘chronic poverty’, and identifies\nframeworks for analysing it. In the first section, the major frameworks for\nconceptualising, defining, explaining, and measuring poverty in its broader sense are\nreviewed in brief, and related to the study of chronic poverty. It is suggested that\nresearch undertaken by the Chronic Poverty Research Centre (CPRC) should focus on\npoverty in its broadest, multi-dimensional sense, and that those who are chronically\npoor are likely to be poor in several ways, not only in terms of income. At the same\ntime, the analysis of money-metric and other quantitative indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, u",
+      "10\nboth on the household and on its links to informal networks and formal safety nets”,\ntaking into account physical assets, human capital, income diversification, and\nparticipation in informal and formal networks, safety nets and credit markets (World\nBank 2000).\nRecent research by Pritchett et al. (2000) has demonstrated that vulnerability can be\nquantitatively important. In an Indonesian sample with a headcount poverty rate of\n20%, an additional 10-30% of households were determined to be vulnerable to poverty\n(at even odds of at least one episode of poverty in three years). Thus, 30-50% of the\npopulation is vulnerable to poverty, with significant differences across groups missed\nby measures of deficits in current consumption and expenditure. It will be important for\nCPRC researchers to engage with these issues of vulnerability, both in terms of\ndifferential vulnerabilities to shocks leading to spells of poverty, as well the manner in\nwhich vulnerability interacts with risk aversion to hinder escape from poverty, through,\nfor example, adverse incorporation (Wood 2000).6\n3 What are the characteristics of chronic poverty?\nThe defining feature of ‘chronic poverty’ is its extended duration. Poverty that is both\nsevere and multi-dimensional but does not last a ‘long’ time, is by its nature not\nchronic.7 However, it is hypothesised that duration, multi-dimensionality and severity o",
+      "be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, usually\npoor, churning poor, occasionally poor and never poor – and that transitions between\ndifferent levels over time be closely monitored. It is suggested that the tightest possible\ndefinition of chronic poverty would be intergenerationally transmitted (IGT) poverty,\nwhich, while it may or may not be severe, is likely to be relatively intractable, and\ntherefore is likely to escape current poverty reduction efforts. In this way, IGT poverty is\nboth a characteristic and cause of chronic poverty. The subsection on IGT poverty\ndraws upon the literature surrounding the intergenerational transfer of different capitals:\nhuman, social-cultural, social-political, financial\/material and environmental\/natural. An\nanalysis of the ways in which severity and multi-dimensionality are often characteristics\nof chronic poverty, and a brief review of the relevance of the World Bank’s Voices of\nthe Poor studies to an understanding of chronic poverty, conclude this section.\nThe chronic poor, it is argued, are a heterogeneous group. There are several sets of\npeople who are particularly susceptible to chronic poverty, and that are likely to\nexperience multiple and overlapping vulnerabilities. These gro"
+    ],
+    "response":"The defining characteristic of chronic poverty is its extended duration.",
+    "reference":"Long duration is both necessary and sufficient for poverty to be considered chronic.",
+    "retrieval_time_sec":0.040029335,
+    "generation_time_sec":0.468221426,
+    "total_time_sec":0.508250761,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        9
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What five categories of poverty are proposed in the paper?",
+    "retrieved_contexts":[
+      ", are a heterogeneous group. There are several sets of\npeople who are particularly susceptible to chronic poverty, and that are likely to\nexperience multiple and overlapping vulnerabilities. These groups include those\nexperiencing deprivation because of their stage in the life cycle, those discriminated\nagainst because of their social position in the community or household, those with\nhealth problems and impairments, and people living in remote rural areas, urban\nghettos and regions where prolonged violent conflict and insecurity have occurred.\nIn the fourth section, the causes of chronic poverty at different levels of analysis are\nexplored, and analytical frameworks for their understanding are laid down - quantitative\npanel data analysis; livelihoods analysis; freedoms; social and political exclusion; and\npolicy analysis frameworks, which include consideration of avoiding the negative\nimpacts of development which help to extend and deepen poverty for the poor. The\nfinal two sections bring together the preceding work and discuss the implications of our\ninitial understanding of chronic poverty for future research.",
+      "2\nAbstract\nThis paper provides an overview of the meaning of ‘chronic poverty’, and identifies\nframeworks for analysing it. In the first section, the major frameworks for\nconceptualising, defining, explaining, and measuring poverty in its broader sense are\nreviewed in brief, and related to the study of chronic poverty. It is suggested that\nresearch undertaken by the Chronic Poverty Research Centre (CPRC) should focus on\npoverty in its broadest, multi-dimensional sense, and that those who are chronically\npoor are likely to be poor in several ways, not only in terms of income. At the same\ntime, the analysis of money-metric and other quantitative indicators are the primary\nmeans by which study of chronic poverty is presently undertaken, and will continue to\nhave an important role to play in research. Our understanding of chronic poverty is also\nlikely to draw upon notions of both absolute and relative poverty, vulnerability, social\nexclusion, and capabilities and freedoms, as well as upon subjective assessments by\nthe poor themselves.\nIn the third section, the characteristics of chronic poverty are presented. Long duration\nis identified as both necessary and sufficient for poverty to be considered chronic. It is\nhypothesised that chronic poverty will also often be multi-dimensional and severe. It is\nproposed that a five-tiered categorisation of the poor be adopted – always poor, u",
+      "understanding of casual factors and\nprocesses.\n3. A five-tiered categorisation of poverty is proposed ( Figure 3). This identifies the\nalways poor, usually poor, churning poor, occasionally poor and never poor. The\nfirst two categories are chronically poor, the next two transitorily poor and the last\none is non-poor. Charting the factors that are associated with transitions in the\npoverty status of a household will help us to understand the processes that create\nor erode chronic poverty and relate these to policy and action (Table 1).\n4. A particularly important focus for research is on the intergenerational transmission\n(IGT) of poverty. This is both a characteristic and a cause of chronic poverty and\ncan be examined in terms of the intergenerational transfer of capitals or assets.\n5. The chronic poor are a heterogeneous group and must be studied at individual,\nhousehold (intra and inter) and social group levels. They include those experiencing\ndeprivation because of their stage in the life cycle, those who are socially\ndiscriminated against (within the household, community or nation), those with\nimpairments and health problems, people living in remote rural areas, urban\nghettos and regions where prolonged violent conflict or insecurity have occurred.\nCommonly, the chronic poor experience several forms of disadvantage at the same\ntime – gender, age, ethnicity, location, among"
+    ],
+    "response":"The five categories of poverty proposed in the paper are:\n\n1. Always poor\n2. Usually poor\n3. Churning poor\n4. Occasionally poor\n5. Never poor",
+    "reference":"Always poor, usually poor, churning poor, occasionally poor and never poor.",
+    "retrieval_time_sec":0.03877246,
+    "generation_time_sec":0.649605409,
+    "total_time_sec":0.688377869,
+    "sources":[
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        1
+      ],
+      [
+        "0008-pdf.pdf",
+        33
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What tasks are covered in the PowerPoint 2010 training guide?",
+    "retrieved_contexts":[
+      "WPL_U101 \nT r a i n i n g  G u i d e  \n3 – Creating a presentation \nMicrosoft PowerPoint 2010 \n- Level 1",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 13  Creating a presentation \nCONCLUDING REMARKS \n \n \n \n \nCongratulations!  \nYou have now completed the Creating a presentation booklet.  This booklet was \ndesigned to get you to the point where you can competently perform a variety of \noperations as outlined in the task list on page 2.  \nWe have tried to build up your skills and knowledge by having you work through specific \ntasks. The step by step approach will serve as a reference for you when you need to repeat \na task. \n \nWhere To From Here… \nThe following is a little advice about what to do next: \n Spend some time playing with what you have learnt. You should reinforce the skills \nthat you have acquired and use some of the application's commands. This will test \njust how much of the concepts and features have stuck! Don't try a big task just yet if \nyou can avoid it - small is a good way to start. \n Some aspects of the course may now be a little vague. Go over some of the points \nthat you may be unclear about. Use the examples and exercises in these notes and \nhave another go - these step-by-step notes were designed to help you in the \nclassroom and in the work place! \nHere are a few techniques and strategies that we've found handy for learning more about \ntechnology: \n visit CLD’s e-learning zone on the Intranet  \n read computer magazines - t",
+      "Microsoft PowerPoint 2010 - Level 1 \n© Learning and Development Service Page 8  Creating a presentation \nCREATING A PRESENTATION BASED ON A THEME \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTry This Yourself: \n \nBefore starting this \nexercise ensure that \nPowerPoint is open... \n1 Click on the File tab, then click on New to display \nBackstage view \n2 Click on Themes, then scroll down to view the \nrange of available themes \n3 Click on Slipstream, then click on [OK] to create a \nnew presentation based on \nthe Slipstream theme \n \nFor Your Reference… \nTo create a presentation based on a \ntheme: \n1. Click on the File tab, then click on \nNew  \n2. Click on Themes \n3. Click on a theme to select it \n4. Click on [OK] \nHandy to Know… \n You can apply a different theme to an \nexisting themed presentation. To do this, \nclick on the Design tab, then select a \ntheme from the Themes gallery.  \n All new presentations will be based on the \ndefault Office Theme (blank \npresentation) unless you select another \ntheme. \nA theme is a set of colours, fonts and \neffects that you can apply to your \npresentation for a professional-looking \nfinish. Each theme consists of a range of \ncomplimentary colours, styles (fonts) and \neffects, such as animations, so once you’ve \napplied a theme, all you really need to do is \nto type the text. Applying a theme ensures a \nconsistent design across your presenta"
+    ],
+    "response":"The context does not provide a specific list of tasks covered in the PowerPoint 2010 training guide. It mentions that the booklet was designed to get the user to the point where they can competently perform various operations, but it doesn't explicitly state what those operations or tasks are.",
+    "reference":"Planning and designing presentations, creating blank presentations, using templates and themes, entering text, saving presentations, inserting slides and previewing slide shows.",
+    "retrieval_time_sec":0.0373718,
+    "generation_time_sec":0.855432891,
+    "total_time_sec":0.892804691,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        0
+      ],
+      [
+        "0009-pdf.pdf",
+        12
+      ],
+      [
+        "0009-pdf.pdf",
+        7
+      ]
+    ]
+  },
+  {
+    "config":"large_E5",
+    "user_input":"What are the main design principles recommended for PowerPoint slides?",
+    "retrieved_contexts":[
+      "ial is an example of a sans-serif font, while Times New \nRoman is a serif font. Note: Verdana is the coporate font that should be used \non all work related presentations. \n Make sure the font is large enough. Slide text should be visible from the back \nof the room. Generally, headings are around 36-45 points, while the main \nbody of text and bullet points is around 22 points. \n Make good use of white space on each slide. The more white space that \nappears on a slide, the easier it will be for the audience to read what does \nappear. Try to keep a minimum of 20 per cent of white space on all slides. \n Keep the number of colours you use to a minimum. Generally two to three \ncolours per slide is ample. Make sure the colours complement each other and \ndo not interfere with your message. \n \nConsistency \nTo ensure a professional design across your slide presentation, it is important to \nensure a consistent look and feel across each slide. People like to see repeating \nelements on each slide. Here are a few ways you can ensure consistency and also \nsave time when creating presentations. \n Use a design template. Design templates already contain the fonts, colours \nand other visual elements, so all you have to do is to type in your text. Each \nslide will have the same look as the others in the presentation. \n Use the same background design on all slides. PowerPoint has many \nbackgro",
+      "nts, so all you have to do is to type in your text. Each \nslide will have the same look as the others in the presentation. \n Use the same background design on all slides. PowerPoint has many \nbackground designs for you to choose from, which can be easily applied to all \nslides.  Note: there are WSCC corporate templates on the intranet \n Use the same fonts, font sizes and other formatting attributes throughout \nyour presentation. For example, if you have used yellow bullets on one slide, \nmake sure you use yellow bullets on all slides.",
+      "on \nRequired \nWhat action do you want to take place as a result of your presentation? \nDo you want people to support your proposal? Do you want feedback \non the information you have provided? Maybe you need to include a \nslide that provides a plan of action or contact details. \nTimeframe How much time do you have to present the information? Make sure you \ndon’t have too many slides to cover in the available time. It is highly \nunlikely that you will have too few, but if you do you can simply make \nmore time available for questions or discussion. \nTime of Day If you are presenting in the early afternoon or evening, you may want \nto add a bit more pizzazz to retain audience interest than if you are \npresenting early in the morning. \nPresentation \nMethod \nThis is another important consideration, as it will affect the \npresentation design also. For example, if you are printing the slides to \nuse on an overhead transparency projector, you will need to ensure \nyou have little to no colour (or backgrounds). If the presentation is to \nbe uploaded to the internet for others to view, will it be a self-running \npresentation or will you enable user control over the presentation, for \nexample?"
+    ],
+    "response":"The main design principles recommended for PowerPoint slides include:\n1. Using appropriate font size (headings: 36-45 points; body text\/bullets: 22 points).\n2. Maximizing white space (at least 20% of each slide).\n3. Limiting colors to two to three complementary colors per slide.\n4. Ensuring consistency across all slides through the use of design templates, background designs, fonts, font sizes, and formatting attributes.\n5. Considering the purpose of the presentation (e.g., seeking support, feedback, or including a plan of action).\n6. Tailoring the presentation method based on the delivery medium (e.g., overhead transparency projector vs. online viewing).\n7. Adjusting presentation style according to the time of day (adding more pizazz for late afternoon\/evening sessions).",
+    "reference":"Keep text concise, use readable fonts, limit colours, maintain adequate white space and ensure a consistent design.",
+    "retrieval_time_sec":0.037830706,
+    "generation_time_sec":1.73691478,
+    "total_time_sec":1.774745486,
+    "sources":[
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        4
+      ],
+      [
+        "0009-pdf.pdf",
+        2
+      ]
+    ]
+  }
+]
